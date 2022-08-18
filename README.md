@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @GuilhermeAlaminha
+- 👀 I’m interested in new job
+- 🌱 I’m currently learning data science
